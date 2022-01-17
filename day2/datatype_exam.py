@@ -68,7 +68,7 @@ spiderman = {'name' : '피터파커',
               'weapon' : '웹슈터' }
 print(spiderman)
 
-#집합
+# 집합
 set_int = set([1,2,3,4,5,6,7,1,2,3])
 print(set_int)
 
