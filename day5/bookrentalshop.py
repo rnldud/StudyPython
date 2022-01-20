@@ -113,7 +113,7 @@ if __name__ == '__main__':
     # print('기존회원 수정완료')
 
     # 6. divtbl에 임의 데이터 삭제
-    print('책 장르 정보 삭제')
+    print('책 장르 정보 삭제')   
     division = input('삭제할 장르코드 입력:')
     deleteDivision(scott_con, division)
     print('삭제성공')
