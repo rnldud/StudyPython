@@ -1,7 +1,7 @@
 # StudyPython
 빅데이터 반 파이썬 학습 리포지토리
 
-![python]( https://th.bing.com/th/id/R.72595c6fa3b48128eed32338fd275fcc?rik=7pq%2fT1ytW7j7cw&riu=http%3a%2f%2fblogthumb2.naver.net%2fMjAxNzAyMTNfMjEg%2fMDAxNDg2OTcxNzM3NTE5.FKqf5HaO1eoFhgXkGE2jXVKKQ-jVdwXho4N8cIU6L-Ig.KOSZAUeaSF3L8rh1kjDgoQUDuFg5pEX6EsZKJ4lmASEg.JPEG.acornedu%2f01_%25C7%25C1%25B7%ce%b1%d7%b7%25A1%25B9%d6%be%25F0%25BE%25EE.jpg%3ftype%3dw2&ehk=QKPTGAikao7anjhSMsaPWHCoUouc0jOxfTxNuuDCQdE%3d&risl=&pid=ImgRaw&r=0 )
+![python]( https://img3.duote.com/duoteimg/zixunImg/local/2018/01/25/15168591754800.jpg )
 
 ### 1일차 
 - 프로그래밍 이해
