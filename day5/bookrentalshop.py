@@ -79,15 +79,15 @@ if __name__ == '__main__':
     
     # # 1. divtbl에서 데이터 조회
     # print('책 장르 정보 조회')
-    # getAllDataFromDivtbl(scott_con)
+getAllDataFromDivtbl(scott_con)
 
     # # 2. divtbl에 새로운 데이터를 입력
-    # print('책 장르 정보입력')
-    # division = input('구분코드를 입력:')
-    # names = input('장르명 입력:')
-    # tup = (division, names)
-    # setDataIntoDivtbl(scott_con, tup)
-    # print('정보 입력 성공')
+print('책 장르 정보입력')
+division = input('구분코드를 입력:')
+names = input('장르명 입력:')
+tup = (division, names)
+setDataIntoDivtbl(scott_con, tup)
+print('정보 입력 성공')
 
     # # 3. membertbl에서 데이터 조회
     # getSomeDataFromMembertbl(scott_con)
@@ -113,7 +113,7 @@ if __name__ == '__main__':
     # print('기존회원 수정완료')
 
     # 6. divtbl에 임의 데이터 삭제
-    print('책 장르 정보 삭제')   
-    division = input('삭제할 장르코드 입력:')
-    deleteDivision(scott_con, division)
-    print('삭제성공')
+    # print('책 장르 정보 삭제')   
+    # division = input('삭제할 장르코드 입력:')
+    # deleteDivision(scott_con, division)
+    # print('삭제성공')
